@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Trip Planer</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps_choose_places">MapsChoosePlacesActivity</string>
+    <string name="title_activity_maps_display_trip">MapsDisplayTripActivity</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to_trip_planer">Welcome to Trip Planer</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="new_to_trip_planer_create_an_account">New to Trip Planer? Create an account.</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up_to_trip_planer">Sign up to Trip Planer</string>
+    <string name="username">Username</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="create_new_trip">Create New Trip</string>
+    <string name="there_is_no_data_to_display">There is no data to display</string>
+    <string name="delete_trip">Delete trip</string>
+    <string name="undo">undo</string>
+    <string name="calculate_a_route">Calculate a route</string>
+    <string name="coudn_t_calculate_distances_between_some_places">Coudn\'t calculate distances between some places</string>
+    <string name="save_this_route">Save this route</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="trips_title">Trips title</string>
+</resources>
